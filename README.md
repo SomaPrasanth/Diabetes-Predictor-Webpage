@@ -3,20 +3,6 @@
 
 This project is a **web-based application** that predicts the likelihood of diabetes based on user inputs.  
 
-## 📂 Project Structure  
-```
-📁 Diabetes-Prediction
-│── 📁 static
-│   ├── 📄 style.css          # Frontend styling (UI)
-│── 📁 templates
-│   ├── 📄 index.html         # Main frontend page
-│── 📄 app.js                 # Node.js backend server
-│── 📄 app.py                 # Flask backend for model evaluation
-│── 📄 requirements.txt       # Python dependencies
-│── 📄 .gitignore             # Git ignore file
-│── 📄 README.md              # Project documentation
-```
-
 ## 🚀 How to Run the Project  
 1️⃣ Install dependencies  
 ```bash
