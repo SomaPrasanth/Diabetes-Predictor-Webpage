@@ -60,20 +60,20 @@ node app.js
 4️⃣ Open the web app
 Visit index.html in your browser.
 
-## 🖥️ Usage
-1️⃣ Enter your medical data in the form (Age, Glucose, BMI, etc.)
-2️⃣ Click Predict
-3️⃣ The app sends the input to the Node.js backend, which forwards it to Flask
-4️⃣ The trained model processes the data and returns the result
-5️⃣ The prediction is displayed on the screen
+## 🖥️ Usage<br/>
+1️⃣ Enter your medical data in the form (Age, Glucose, BMI, etc.)<br/>
+2️⃣ Click Predict<br/>
+3️⃣ The app sends the input to the Node.js backend, which forwards it to Flask<br/>
+4️⃣ The trained model processes the data and returns the result<br/>
+5️⃣ The prediction is displayed on the screen<br/>
 
 ## 🔧 Technologies Used
-Frontend: HTML, CSS, JavaScript
-Backend: Node.js (API)
-Machine Learning: TensorFlow
+Frontend: HTML, CSS, JavaScript<br/>
+Backend: Node.js (API)<br/>
+Machine Learning: TensorFlow<br/>
 
 ## 🎯 Future Improvements
-Improve model accuracy
-Add more UI enhancements
-Deploy the app to a cloud platform
+Improve model accuracy <br/>
+Add more UI enhancements <br/>
+Deploy the app to a cloud platform <br/>
 
