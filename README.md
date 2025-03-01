@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏥 Diabetes Prediction Web App  
 
 This project is a **web-based application** that predicts the likelihood of diabetes based on user inputs.  
@@ -24,17 +24,12 @@ pip install -r requirements.txt
 npm install express body-parser axios
 ```  
 
-2️⃣ Start the Flask server  
-```bash
-python app.py
-```  
-
-3️⃣ Start the Node.js server  
+2️⃣ Start the Node.js server  
 ```bash
 node app.js
 ```  
 
-4️⃣ Open `http://localhost:3000` in your browser and enter details to predict diabetes! 🎉  
+3️⃣  Open index.html in your browser and enter details to predict diabetes! 🎉  
 =======
 🏥 Diabetes Prediction Web App
 This project is a web-based application that predicts the likelihood of diabetes based on user inputs. It consists of:
@@ -46,8 +41,8 @@ This project is a web-based application that predicts the likelihood of diabetes
 
 🛠️ Installation & Running the Project
 1️⃣ Clone the repository
-git clone https://github.com/your-username/diabetes-prediction.git
-cd diabetes-prediction
+git clone https://github.com/your-username/Diabetes-Predictor-Webpage.git
+cd Diabetes-Predictor-Webpage
 2️⃣ Install backend dependencies
 
 Install Python dependencies
@@ -77,4 +72,4 @@ Machine Learning: TensorFlow
 Improve model accuracy
 Add more UI enhancements
 Deploy the app to a cloud platform
->>>>>>> 635355c507c509a9e8e19c0af68f69f2037d4e0a
+
