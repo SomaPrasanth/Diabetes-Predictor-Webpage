@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 
 # Load the trained model
-model = tf.keras.models.load_model("model.h5")
+model = tf.keras.models.load_model(r"D:\Project\Diabetes Preditor\src\model.h5")
 
 def evaluate(input_data):
     input_array = np.array([input_data])  # Convert to NumPy array
